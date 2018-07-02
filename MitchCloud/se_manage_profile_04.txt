@@ -1,0 +1,11 @@
+//------------------------------------------------------------------
+System Name: MitchCloud
+Artifact Name: se_manage_profile.txt
+Create Date: Nov 1, 2017
+Author: Aaron Liszt
+Version: 1.2
+//------------------------------------------------------------------
+
+List of System Events for Manage Profile:
+1. viewProfile 
+2. viewWorkers  (Local Managers only)

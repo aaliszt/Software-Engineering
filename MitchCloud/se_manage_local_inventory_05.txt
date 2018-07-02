@@ -1,0 +1,15 @@
+//------------------------------------------------------------------
+System Name: MitchCloud
+Artifact Name: se_manage_local_inventory_05.txt
+Create Date: Nov 27, 2017
+Author: Aaron Liszt
+Version: 1.1
+//------------------------------------------------------------------
+
+List of System events for Manage Local Inventory
+
+1. displayInventory
+2. getProductDetails	X
+3. orderMaterials	X
+
+

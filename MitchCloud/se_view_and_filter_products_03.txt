@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+System Name: MitchCloud
+Artifact Name: se_view_and_filter_products_03.txt
+Create Date: Nov 27, 2017
+Author: Aaron Liszt
+Version: 1.1
+//------------------------------------------------------------------
+
+List of System events for view an filter products
+
+1. viewAllProducts
+2. applyFilter

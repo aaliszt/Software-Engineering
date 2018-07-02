@@ -1,0 +1,16 @@
+//------------------------------------------------------------------
+System Name: MitchCloud
+Artifact Name: se_manage_order_06.txt
+Create Date: Nov 27, 2017
+Author: Aaron Liszt
+Version: 1.1
+//------------------------------------------------------------------
+
+List of System Events for Manage Order
+
+1. displayOrders
+2. getOrder
+3. updateOrder		X
+4. createOrder
+5. deleteOrder		X
+

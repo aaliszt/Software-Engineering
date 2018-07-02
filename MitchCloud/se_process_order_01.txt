@@ -1,0 +1,16 @@
+//------------------------------------------------------------------
+System Name: MitchCloud
+Artifact Name: se_process_order_01.txt
+Create Date: Nov 9, 2017
+Author: Aaron Liszt
+Version: 1.0
+//------------------------------------------------------------------
+
+List of system events for process order
+1. addItem
+2. getTotal
+3. viewAllProducts
+4. removeItem
+5. viewCart
+6. login
+7. logout

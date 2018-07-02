@@ -1,0 +1,14 @@
+//------------------------------------------------------------------
+System Name: MitchCloud
+Artifact Name: se_manage_users_07.txt
+Create Date: Nov 27, 2017
+Author: Aaron Liszt
+Version: 1.1
+//------------------------------------------------------------------
+
+System Event List for Manage Users
+1. displayUsers
+2. getUser
+3. deleteUser	X
+4. createUser	X
+5. updateUser	X

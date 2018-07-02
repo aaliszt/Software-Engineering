@@ -1,0 +1,13 @@
+//------------------------------------------------------------------
+System Name: MitchCloud
+Artifact Name: se_checkout_order.txt
+Create Date: Nov 27, 2017
+Author: Aaron Liszt
+Version: 1.1
+//------------------------------------------------------------------
+
+List of system events for checkout order
+1. selectPaymentMethod
+2. selectShippingMethod
+3. printReceipt
+4. calculateTax
